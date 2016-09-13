@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3F4B1470-6605-FCC8-7EF6-153F38FFA121}") = "pico-basketball-ar", "Assembly-CSharp.csproj", "{5FF91E0B-B889-896E-5E3A-725D9DCAFCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF91E0B-B889-896E-5E3A-725D9DCAFCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF91E0B-B889-896E-5E3A-725D9DCAFCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF91E0B-B889-896E-5E3A-725D9DCAFCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF91E0B-B889-896E-5E3A-725D9DCAFCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
